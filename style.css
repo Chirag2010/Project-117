@@ -1,0 +1,18 @@
+body{
+    background-color:salmon;
+}
+#score{
+    font-size: 40px;
+    margin-right: 1080px;
+    float:left;
+}
+#timer{
+  
+    font-size: 40px;
+    margin-left: 1080px;
+    float:right;
+}
+#sketch_given{
+    font-size: 30px;
+    color: whitesmoke;
+}
